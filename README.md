@@ -6,10 +6,9 @@ For the Epicode bootcamp, I have created a faithful replica of the renowned onli
 
 ## Key Features:
 
-- Multi-Compatible Swaps: Perform token swaps on Ethereum, Layer 2, and other EVM-compatible blockchains, offering unparalleled flexibility to users.
-- Custom Strategy Creation: Users can create and simulate their own trading strategies. These strategies can be rebalanced in real-time to optimize portfolio performance.
-- NFT Generation: The protocol supports the creation of non-fungible tokens (NFTs) in a simple and intuitive manner. Users can create their NFTs directly from the platform.
-- NFT Gallery: The project offers a dedicated gallery to showcase and admire your own NFTs. This space is designed to celebrate the the users creativity.
+- Completely responsive;
+- The task was to align all the sections using FLEXBOX;
+- "M" animation with ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E);
 
 ## Tech Stack
 
