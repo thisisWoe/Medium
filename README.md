@@ -8,17 +8,17 @@ For the Epicode bootcamp, I have created a faithful replica of the renowned onli
 
 - Completely responsive;
 - The task was to align all the sections using FLEXBOX;
-- "M" animation with ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E);
+- "M" animation with ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E);
 
 ## Tech Stack
 
 **Client:**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 ## Author
 
-[![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://www.github.com/thisisWoe)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-rondolini/)
-[![Static Badge](https://img.shields.io/badge/Mail%20Me-violet?style=for-the-badge&logo=gmail)](mailto:alessandro.rondolini.96@gmail.com?subject=Job_Offer)
+[![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://www.github.com/thisisWoe)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-rondolini/)
+[![Static Badge](https://img.shields.io/badge/Mail%20Me-violet?style=flat&logo=gmail)](mailto:alessandro.rondolini.96@gmail.com?subject=Job_Offer)
